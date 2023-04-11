@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-test-tsx-3a61229a157f2f0e7f43.js","mappings":"0HAMA,UAJa,IACFA,EAAAA,cAAAA,MAAAA,KAAK,gB","sources":["webpack://ten-io/./src/pages/test.tsx"],"sourcesContent":["import React from 'react'\n\nconst Test = () => {\n    return <div>Hello World! </div>\n}\n\nexport default Test;"],"names":["React"],"sourceRoot":""}
