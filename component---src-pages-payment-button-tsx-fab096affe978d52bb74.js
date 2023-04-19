@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkten_io=self.webpackChunkten_io||[]).push([[471],{7441:function(e,t,n){n.r(t);var i=n(7294),o=n(3128);const a={root:{display:"flex",justifyContent:"center",alignItems:"center",padding:"10px"}};t.default=()=>i.createElement("div",{style:a.root},i.createElement(o.Z,{variant:"contained",color:"primary",onClick:()=>{window.location.href="/404"}},"Click me!"))}}]);
+//# sourceMappingURL=component---src-pages-payment-button-tsx-fab096affe978d52bb74.js.map
